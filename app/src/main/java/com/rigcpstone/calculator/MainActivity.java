@@ -7,6 +7,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.android.rproject.R;
+
 public class MainActivity extends AppCompatActivity {
 
     private EditText number1, number2;
